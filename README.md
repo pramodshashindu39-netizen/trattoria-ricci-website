@@ -4,7 +4,7 @@ This is a responsive, static website built for Trattoria Ricci as part of the HT
 
 ## Live Website Link
 You can view the live website here: [https://pramodshashindu39-netizen.github.io/trattoria-ricci-website/]
-(Note: Replace this text with your GitHub Pages link once it is generated)
+
 
 ## Project Structure
 trattoria-ricci-website/
