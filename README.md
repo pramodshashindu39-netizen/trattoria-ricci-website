@@ -3,7 +3,7 @@
 This is a responsive, static website built for Trattoria Ricci as part of the HTML and CSS web development assignment. The project follows software engineering workflows using Git, semantic HTML, and custom responsive CSS.
 
 ## Live Website Link
-You can view the live website here: [INSERT_YOUR_GITHUB_PAGES_LINK_HERE]
+You can view the live website here: [https://pramodshashindu39-netizen.github.io/trattoria-ricci-website/]
 (Note: Replace this text with your GitHub Pages link once it is generated)
 
 ## Project Structure
